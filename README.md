@@ -19,7 +19,7 @@ Please follow the steps accordingly to ensure that the web application runs smoo
 4) See if the API can successfully connect to the database.
    > Inside the lulu-api folder, run ***npm install*** on your terminal (make sure that node.js is installed).
    
-   > After installing the necessary packages, you can start the API server by executing ***npm start*** or ***npm run dev*** 
+   > After installing the necessary dependencies, you can start the API server by executing ***npm start*** or ***npm run dev*** 
    > on the terminal.
 
    > If everything goes right, the server should running on http://localhost:9000/ (by default). You may set up your own 
@@ -34,4 +34,4 @@ Please follow the steps accordingly to ensure that the web application runs smoo
 ######################################################################################
 
 ### ***Developer's Notes***
-  > As you may see in the package.json, I have installed packages for Apollo GraphQL. I tried implementing it in my web application, but I still can't wrap my head around at some-- maybe most-- concepts and I'm also running out of time. On the bright side, I crash-coursed the entire Lift-Off Series by Apollo Studio over the weekend and got certified as a GraphQL Associate 😽. You may also notice that I haven't implemented tests because I don't know how yet, but I have upcoming short course classes for Unit Testing :nerd_face:. The whole development process (minus the crash courses) took approximately 22 hours.
+  > As you may see in the package.json, I have installed Apollo GraphQL dependencies. I tried implementing it in my web application, but I still can't wrap my head around at some-- maybe most-- concepts and I'm also running out of time. On the bright side, I crash-coursed the entire Lift-Off Series by Apollo Studio over the weekend and got certified as a GraphQL Associate 😽. You may also notice that I haven't implemented tests because I don't know how yet, but I have upcoming short course classes for Unit Testing :nerd_face:. The whole development process (minus the crash courses) took approximately 22 hours.
